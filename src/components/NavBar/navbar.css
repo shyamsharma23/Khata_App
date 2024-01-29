@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+    /* border: 2px solid red; */
+    align-items: center;
+}
+ul{
+    display: flex;
+    list-style: none;
+    margin-left: auto;
+    align-items: center;
+}
+
+ul>li{
+    margin: 15px;
+  
+}
+a{
+    text-decoration: none;
+}
